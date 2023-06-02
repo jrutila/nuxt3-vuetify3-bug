@@ -6,6 +6,8 @@ This repo will show two problems:
 
 More discussion related to this here: https://github.com/vuetifyjs/vuetify-loader/issues/290
 
+The goal is to get to use SASS variables for Vuetify 3: https://vuetifyjs.com/en/features/sass-variables/
+
 ## Setup
 
 ```bash

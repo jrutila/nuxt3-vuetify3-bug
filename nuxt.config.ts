@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     'vite:extendConfig': config => {
       config.plugins.push(
         vuetify({
-          // styles: { configFile: 'assets/settings.scss' },
+          styles: { configFile: 'assets/settings.scss' },
         })
       )
     },
